@@ -44,7 +44,3 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=mo-nadeem&count_private=true&show_icons=true&include_all_commits=true" /> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-nadeem" />
-
-<p>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
