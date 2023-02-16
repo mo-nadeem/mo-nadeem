@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![Ansible](https://img.shields.io/badge/ansible%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-nginx-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/bash%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/-nginx-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![YAML](https://img.shields.io/badge/-yaml-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
